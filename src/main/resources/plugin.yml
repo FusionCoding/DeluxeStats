@@ -1,0 +1,10 @@
+name: DeluxeStats
+version: 1.0
+main: de.fusion.deluxestats.DeluxeStats
+author: FusionCoding
+description: A lightweight BungeeCord plugin to monitor the popularity of your server
+website: https://deluxenode.com/
+database: false
+commands:
+  deluxestats:
+    aliases: [ds, dstats]
